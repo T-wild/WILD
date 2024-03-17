@@ -1,0 +1,32 @@
+server:
+  name: "wild"
+  mod: "dev"
+  port: 8081
+  version: "v0.0.0"
+log:
+  level: "debug"
+  filename: "web.log"
+  max_size: 200
+  max_age: 30
+  max_backups: 7
+  log_mode: "dev"
+auth:
+  jwt_secret: ""
+  jwt_expire: 8760
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: ""
+  password: ""
+  dbname: ""
+  max_open_connections: 200
+  max_idle_connections: 50
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: ""
+  db: 0
+  pool_size: 100
+snowflake:
+  start_time: "2022-05-03"
+  machine_id: 1

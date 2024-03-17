@@ -1,0 +1,98 @@
+{"level":"info","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4\u0026parseTime=True\u0026loc=Local","time":"2024-03-16T18:17:48+08:00"}
+{"level":"info","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!!(MISSING)d(string=6379)","time":"2024-03-16T18:17:48+08:00"}
+{"level":"info","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4\u0026parseTime=True\u0026loc=Local","time":"2024-03-16T18:50:09+08:00"}
+{"level":"info","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!!(MISSING)d(string=6379)","time":"2024-03-16T18:50:09+08:00"}
+{"level":"info","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4\u0026parseTime=True\u0026loc=Local","time":"2024-03-16T21:02:26+08:00"}
+{"level":"info","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!!(MISSING)d(string=6379)","time":"2024-03-16T21:02:26+08:00"}
+{"level":"info","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4\u0026parseTime=True\u0026loc=Local","time":"2024-03-16T21:03:15+08:00"}
+{"level":"info","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!!(MISSING)d(string=6379)","time":"2024-03-16T21:03:15+08:00"}
+{"level":"INFO","time":"2024-03-16T21:05:20.068+0800","caller":"wild/main.go:89","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-16T21:05:24.294+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-16T21:05:24.307+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-16T23:07:19.134+0800","caller":"wild/main.go:89","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-16T23:56:42.442+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-16T23:56:42.456+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-16T23:59:44.404+0800","caller":"wild/main.go:89","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:00:50.313+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:00:50.330+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:01:51.392+0800","caller":"wild/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:01:55.305+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:01:55.319+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:04:37.358+0800","caller":"wild/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:04:44.263+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:04:44.277+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:07:44.877+0800","caller":"wild/main.go:91","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:07:49.214+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:07:49.226+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:08:08.857+0800","caller":"wild/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:10:03.519+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:10:03.532+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:10:23.778+0800","caller":"wild/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:10:39.843+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:10:39.856+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:12:07.028+0800","caller":"wild/main.go:92","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:12:11.153+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:12:11.166+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:13:32.578+0800","caller":"wild/main.go:93","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:13:37.003+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:13:37.014+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:13:41.989+0800","caller":"Logger/zap.go:75","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"127.0.0.1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0}
+{"level":"INFO","time":"2024-03-17T00:18:34.386+0800","caller":"wild/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:18:38.826+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:18:38.841+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:20:22.219+0800","caller":"Logger/zap.go:75","msg":"/signup","status":404,"method":"POST","path":"/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0}
+{"level":"ERROR","time":"2024-03-17T00:21:03.539+0800","caller":"controllers/user.go:51","msg":"logic.SignUp failed","error":"Error 1292 (22007): Incorrect datetime value: '0000-00-00' for column 'last_login_at' at row 1"}
+{"level":"INFO","time":"2024-03-17T00:21:03.540+0800","caller":"Logger/zap.go:75","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0070593}
+{"level":"ERROR","time":"2024-03-17T00:24:18.490+0800","caller":"controllers/user.go:51","msg":"logic.SignUp failed","error":"Error 1292 (22007): Incorrect datetime value: '0000-00-00' for column 'last_login_at' at row 1"}
+{"level":"INFO","time":"2024-03-17T00:24:18.490+0800","caller":"Logger/zap.go:75","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0034974}
+{"level":"ERROR","time":"2024-03-17T00:28:26.681+0800","caller":"controllers/user.go:51","msg":"logic.SignUp failed","error":"Error 1292 (22007): Incorrect datetime value: '0000-00-00' for column 'last_login_at' at row 1"}
+{"level":"INFO","time":"2024-03-17T00:28:26.681+0800","caller":"Logger/zap.go:75","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0039485}
+{"level":"ERROR","time":"2024-03-17T00:29:31.065+0800","caller":"controllers/user.go:51","msg":"logic.SignUp failed","error":"Error 1054 (42S22): Unknown column 'created_at' in 'field list'"}
+{"level":"INFO","time":"2024-03-17T00:29:31.065+0800","caller":"Logger/zap.go:75","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0073634}
+{"level":"ERROR","time":"2024-03-17T00:31:05.144+0800","caller":"controllers/user.go:51","msg":"logic.SignUp failed","error":"Error 1054 (42S22): Unknown column 'updated_at' in 'field list'"}
+{"level":"INFO","time":"2024-03-17T00:31:05.144+0800","caller":"Logger/zap.go:75","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0040165}
+{"level":"INFO","time":"2024-03-17T00:31:40.253+0800","caller":"wild/main.go:89","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:32:38.847+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:32:38.861+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:33:25.917+0800","caller":"controllers/user.go:45","msg":"SignUpHandler"}
+{"level":"ERROR","time":"2024-03-17T00:33:25.923+0800","caller":"controllers/user.go:51","msg":"logic.SignUp failed","error":"Error 1292 (22007): Incorrect datetime value: '0000-00-00' for column 'last_login_at' at row 1"}
+{"level":"INFO","time":"2024-03-17T00:33:25.923+0800","caller":"Logger/zap.go:75","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.006327}
+{"level":"INFO","time":"2024-03-17T00:34:28.019+0800","caller":"controllers/user.go:45","msg":"SignUpHandler"}
+{"level":"ERROR","time":"2024-03-17T00:34:28.022+0800","caller":"controllers/user.go:51","msg":"logic.SignUp failed","error":"Error 1292 (22007): Incorrect datetime value: '0000-00-00' for column 'last_login_at' at row 1"}
+{"level":"INFO","time":"2024-03-17T00:34:28.022+0800","caller":"Logger/zap.go:75","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.002976}
+{"level":"INFO","time":"2024-03-17T00:41:44.670+0800","caller":"wild/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:41:49.460+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:41:49.473+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:41:54.260+0800","caller":"controllers/user.go:45","msg":"SignUpHandler"}
+{"level":"INFO","time":"2024-03-17T00:41:54.273+0800","caller":"Logger/zap.go:75","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0140785}
+{"level":"INFO","time":"2024-03-17T00:42:45.889+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0214665}
+{"level":"INFO","time":"2024-03-17T00:43:04.415+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0020308}
+{"level":"INFO","time":"2024-03-17T00:43:06.824+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0014426}
+{"level":"INFO","time":"2024-03-17T00:43:11.792+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0012676}
+{"level":"INFO","time":"2024-03-17T00:44:49.622+0800","caller":"Logger/zap.go:75","msg":"/api/v1/version","status":404,"method":"GET","path":"/api/v1/version","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0}
+{"level":"INFO","time":"2024-03-17T00:45:08.980+0800","caller":"Logger/zap.go:75","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0}
+{"level":"INFO","time":"2024-03-17T00:45:50.732+0800","caller":"wild/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T00:45:55.363+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T00:45:55.377+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T00:46:02.212+0800","caller":"Logger/zap.go:75","msg":"/version","status":200,"method":"GET","path":"/version","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.000117}
+{"level":"INFO","time":"2024-03-17T00:48:47.078+0800","caller":"wild/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T09:25:43.320+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T09:25:43.335+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T09:26:01.190+0800","caller":"Logger/zap.go:75","msg":"/api/v1/version","status":404,"method":"GET","path":"/api/v1/version","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0}
+{"level":"INFO","time":"2024-03-17T09:26:12.631+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.002593}
+{"level":"INFO","time":"2024-03-17T09:28:02.508+0800","caller":"Logger/zap.go:75","msg":"/api/v1/user","status":200,"method":"GET","path":"/api/v1/user","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0010212}
+{"level":"INFO","time":"2024-03-17T09:28:15.799+0800","caller":"Logger/zap.go:75","msg":"/api/v1/user","status":200,"method":"GET","path":"/api/v1/user","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0}
+{"level":"INFO","time":"2024-03-17T09:28:22.344+0800","caller":"Logger/zap.go:75","msg":"/api/v1/user","status":200,"method":"GET","path":"/api/v1/user","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0002769}
+{"level":"INFO","time":"2024-03-17T09:45:55.930+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.001835}
+{"level":"INFO","time":"2024-03-17T09:46:08.157+0800","caller":"Logger/zap.go:75","msg":"/api/v1/user","status":200,"method":"GET","path":"/api/v1/user","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0009947}
+{"level":"INFO","time":"2024-03-17T09:48:12.977+0800","caller":"controllers/user.go:45","msg":"SignUpHandler"}
+{"level":"INFO","time":"2024-03-17T09:48:12.988+0800","caller":"Logger/zap.go:75","msg":"/api/v1/signup","status":200,"method":"POST","path":"/api/v1/signup","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0120977}
+{"level":"INFO","time":"2024-03-17T09:48:24.927+0800","caller":"Logger/zap.go:75","msg":"/api/v1/user","status":200,"method":"GET","path":"/api/v1/user","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0006232}
+{"level":"INFO","time":"2024-03-17T09:48:40.938+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0015322}
+{"level":"INFO","time":"2024-03-17T09:48:57.666+0800","caller":"Logger/zap.go:75","msg":"/api/v1/user","status":200,"method":"GET","path":"/api/v1/user","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0007397}
+{"level":"INFO","time":"2024-03-17T09:55:16.302+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0070435}
+{"level":"INFO","time":"2024-03-17T09:55:36.903+0800","caller":"wild/main.go:88","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2024-03-17T09:55:43.051+0800","caller":"mysql/mysql.go:44","msg":"🍟: Successfully connected to Mysql at wild:Wild0923@@tcp(127.0.0.1:3306)/wild?charset=utf8mb4&parseTime=True&loc=Local"}
+{"level":"INFO","time":"2024-03-17T09:55:43.063+0800","caller":"redis/redis.go:24","msg":"🍟: Successfully connected to Redis at 127.0.0.1:%!d(string=6379)"}
+{"level":"INFO","time":"2024-03-17T09:55:49.127+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0095267}
+{"level":"INFO","time":"2024-03-17T10:02:26.062+0800","caller":"Logger/zap.go:75","msg":"/api/v1/login","status":200,"method":"POST","path":"/api/v1/login","query":"","ip":"::1","user-agent":"PostmanRuntime/7.37.0","errors":"","cost":0.0054927}
